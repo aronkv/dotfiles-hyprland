@@ -30,6 +30,7 @@ micro/buffers/
 quickshell/sddm/*/fonts/
 quickshell/notifications.json
 quickshell/activity.json
+quickshell/localsend_*.pem
 # uosc is third-party (reinstall from upstream, ships ~17 MB of binaries)
 mpv/scripts/uosc/
 mpv/fonts/
